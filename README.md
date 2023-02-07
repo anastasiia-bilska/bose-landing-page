@@ -18,12 +18,12 @@ Project was created with:
 $ nvm use 14
 ```
 
-2. Clone the repository to your local machine, open terminal (GitBush for Windows users) and clone repo with command bellow:
+2. Clone the repository to your local machine, open terminal (GitBash for Windows users) and clone repo with command bellow:
 ```
 $ git clone https://github.com/anastasiia-bilska/bose-landing-page.git
 ```
 
-3. Open project in terminal (or GitBush for Windiws users):
+3. Open project in terminal (or GitBash for Windows users):
 ```
 $ code bose-landing-page
 ```
