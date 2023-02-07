@@ -6,7 +6,7 @@
 A landing page for Bose. It is a training project. The user can open and close burger menu, use telephone and email links, send an information in a special form. The form has adittional validation. Page consist of animation and transition on product cards and buttons. Anchore targets were implemented for navigation within the same page. The project is SEO friendly.
 
 ## Technologies
-Project is created with:
+Project was created with:
 * JavaScript
 * CSS, SCSS (flexboxes, grids, animations)
 * HTML
@@ -16,7 +16,7 @@ Project is created with:
 1. Use 14 version of node.js:
 $ nvm use 14
 
-2.Clone the repository to your local machine, open terminal (GitBush for Windows users) and clone repo with command bellow:
+2. Clone the repository to your local machine, open terminal (GitBush for Windows users) and clone repo with command bellow:
 $ git clone https://github.com/anastasiia-bilska/bose-landing-page.git
 
 3. Open project in terminal (or GitBush for Windiws users):
