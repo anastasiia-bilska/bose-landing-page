@@ -25,7 +25,7 @@ $ git clone https://github.com/anastasiia-bilska/bose-landing-page.git
 
 3. Open project in terminal (or GitBush for Windiws users):
 ```
-$code bose-landing-page
+$ code bose-landing-page
 ```
 
 4. Set up project and install necessary packages in the code-editor you use:
