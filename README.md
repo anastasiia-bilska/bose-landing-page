@@ -14,16 +14,26 @@ Project was created with:
 
 ## Setup
 1. Use 14 version of node.js:
+```
 $ nvm use 14
+```
 
 2. Clone the repository to your local machine, open terminal (GitBush for Windows users) and clone repo with command bellow:
+```
 $ git clone https://github.com/anastasiia-bilska/bose-landing-page.git
+```
 
 3. Open project in terminal (or GitBush for Windiws users):
-$ code bose-landing-page
+```
+$code bose-landing-page
+```
 
 4. Set up project and install necessary packages in the code-editor you use:
+```
 $ npm install
+```
 
 5. Open the project in browser:
+```
 $ npm start
+```
